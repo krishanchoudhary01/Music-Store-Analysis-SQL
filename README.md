@@ -74,17 +74,6 @@ Joined Customer and Invoice tables to identify the customer with the highest spe
 * LIMIT
 * Business Analytics
 
----
-
-## 📷 Project Screenshots
-
-### Database Schema
-
-(Add schema image here)
-
-### Query Outputs
-
-(Add query screenshots here)
 
 ---
 
@@ -102,8 +91,7 @@ Joined Customer and Invoice tables to identify the customer with the highest spe
 
 Krishan Choudhary
 
-Aspiring Data Analyst
+Data Analyst
 
-LinkedIn: Add Your LinkedIn URL
+LinkedIn: https://www.linkedin.com/in/krishan-choudhary-69894235b/
 
-GitHub: Add Your GitHub URL
