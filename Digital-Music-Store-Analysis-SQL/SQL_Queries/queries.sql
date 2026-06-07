@@ -90,9 +90,9 @@ Return the Name and Milliseconds for each track. Order by the song length with t
 
 SELECT name,miliseconds
 FROM track
-WHERE miliseconds > (
-	SELECT AVG(miliseconds) AS avg_track_length
+WHERE milliseconds > (
+	SELECT AVG(milliseconds) AS avg_track_length
 	FROM track )
-ORDER BY miliseconds DESC;
+ORDER BY milliseconds DESC;
 
 
